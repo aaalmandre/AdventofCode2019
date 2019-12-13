@@ -4,3 +4,9 @@ D:\Andris\c#\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplicatio
 D:\Andris\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 D:\Andris\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Andris\c#\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\Andris\c#\Source\Repos\AdventOfCode2019\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
